@@ -11,5 +11,6 @@ h3 {
 color: yellow;
 }
 h2 {
-color: yellow;
+  float: right;
+color: lime;
 }
