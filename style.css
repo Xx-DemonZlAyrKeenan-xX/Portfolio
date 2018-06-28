@@ -1,6 +1,4 @@
-body {
-background-color: lightgrey;
-}
+
 h1 {
 color: forestgreen;
 }
@@ -14,3 +12,4 @@ h2 {
   float: right;
 color: lime;
 }
+background {color: lightgrey;}
