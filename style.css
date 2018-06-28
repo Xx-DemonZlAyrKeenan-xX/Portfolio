@@ -12,4 +12,6 @@ h2 {
   float: right;
 color: lime;
 }
-background {color: lightgrey;}
+html {
+  background-color: lightgrey;
+}
